@@ -28,12 +28,3 @@ Welcome to the Music API App! This application allows users to discover, explore
 
 Contributions are welcome! If you have any ideas, improvements, or bug fixes, please submit a pull request. Make sure to follow the existing code style and write descriptive commit messages.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code.
-
-## Contact
-
-If you have any questions, suggestions, or feedback, please contact the team at musicapi@example.com.
-
-Thank you for using the Music API App! Enjoy your musical journey!
